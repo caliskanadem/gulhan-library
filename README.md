@@ -67,16 +67,6 @@ SOLUTION
 └── yarn.lock
 ```
 
-### At the end of the project, following topics are to be covered;
-
-- HTML
-
-- CSS
-
-- JS
-
-- ReactJS
-
 ## Google Books API
 
 <a href="https://developers.google.com/books/docs/v1/using" target="_blank">Google Books API</a>
